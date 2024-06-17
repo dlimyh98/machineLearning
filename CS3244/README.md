@@ -1,4 +1,4 @@
-# CS3244 Assignments
+# NUS - CS3244 Assignments
 Assignment 1 - Implementing Linear and Non-Linear Classifications  
 Assignment 2 - Implementing CNN for Cat-Dog Classification
 
